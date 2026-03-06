@@ -80,7 +80,7 @@ I am particularly interested in data-driven performance optimisation, customer i
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: www.linkedin.com/in/prasanth-teegala-39b351370  
+💼 LinkedIn: www.linkedin.com/in/prasanth-teegala-b407743b1
 📧 Email: prashanthteegala7@gmail.com  
 
 I am open to collaboration, internships, graduate roles, and apprenticeship opportunities within the UK.
