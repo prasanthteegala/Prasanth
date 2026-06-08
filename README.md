@@ -1,86 +1,62 @@
-# I'm Prasanth  
+# Hi, I'm Prasanth 👋
 
-🎓 MSc Computer Science (Machine Learning & Artificial Intelligence)  
+🎓 MSc Computer Science – Machine Learning & AI | University of East London  
 📍 Bournemouth, United Kingdom  
-📊 Aspiring Data Analyst | AI & Big Data Enthusiast  
-🚀 Open to UK Graduate Data Roles & Level 6 Data Analytics Apprenticeships  
+💼 AI Data Engineer  
+🔍 Open to AI Data Engineer roles in the UK  
 
 ---
 
-## 🔎 About Me
+## 🧑‍💻 About Me
 
-I am a detail-oriented postgraduate student specialising in Data Analytics, Machine Learning, and Big Data technologies. I enjoy transforming raw, complex datasets into structured, high-quality data that drives meaningful business insights and smarter decision-making.
+AI Data Engineer with 2+ years of production experience at Electronic Arts. Built and owned scalable ETL/ELT pipelines, managed Data Lake infrastructure on Databricks, and deployed cloud-native solutions on AWS and Azure. Maintained 99%+ SLA compliance across 10+ production pipelines.
 
-My experience includes predictive modelling, statistical analysis, ETL pipeline development, A/B testing, and cloud-based data processing using AWS.
-
-I am particularly interested in data-driven performance optimisation, customer insights, and scalable AI solutions within forward-thinking UK organisations.
+Currently completing MSc in Machine Learning & AI. Applied research includes an Explainable AI fraud detection system (92% recall, F1-score 0.89) and a RAG pipeline using LangChain.
 
 ---
 
-## 🛠 Technical Skills
+## 🚀 Featured Projects
 
-### 📊 Data Analytics & Machine Learning
-- Python (Pandas, NumPy, Scikit-learn)
-- SQL
-- PySpark
-- Exploratory Data Analysis (EDA)
-- Statistical Analysis & A/B Testing
-- Feature Engineering
-- Model Evaluation & Validation
+**XAI Fraud Detection System**
+- Built XGBoost, LightGBM and Random Forest classifiers on real credit card data
+- Achieved 92% recall and F1-score of 0.89 on imbalanced data using SMOTE
+- Applied SHAP for global and local model explainability
+- Delivered interactive UI for real-time fraud classification
 
-### ☁ Cloud & Big Data
-- AWS (S3, EMR, Redshift, Glue, Lambda, EC2)
-- Hadoop
-- Hive
-- ETL Pipelines
-- Structured & Unstructured Data Processing
+**Real-Time Event Processing System**
+- Built Kafka + Spark Structured Streaming pipeline processing 50,000+ events/sec
+- Sub-second latency with schema best practices throughout
 
-### 🗄 Databases
-- PostgreSQL
-- MySQL
-- Oracle
-- SQL Server
+**RAG NLP Application**
+- Built RAG pipeline using LangChain and vector embeddings
+- Retrieves context from unstructured documents for personalised outputs
+
+**Customer Sales Analytics Pipeline**
+- Ingested raw sales data from 3+ sources into Snowflake using dbt
+- Reduced data processing time by 35%
 
 ---
 
-## 📈 Featured Projects
+## 🛠️ Tech Stack
 
-### 🔹 Credit Risk & Healthcare Predictive Models
-- Developed supervised machine learning models achieving up to 95% accuracy.
-- Performed data cleaning, transformation, and validation to ensure reliable predictions.
-- Generated actionable insights to support risk assessment and early intervention strategies.
-
-### 🔹 Bayesian A/B Testing Framework
-- Designed and implemented a Bayesian statistical testing framework.
-- Analysed experimental performance differences to support optimisation decisions.
-- Demonstrated practical application of experimentation methodology used in commercial environments.
-
-### 🔹 Retrieval-Augmented Generation (RAG) NLP Application
-- Built a data-driven NLP solution for automated personalised document generation.
-- Processed and structured large datasets to improve accessibility and knowledge retrieval.
-
-### 🔹 Image Segmentation using U-Net
-- Developed deep learning models achieving 97% accuracy for crop and leaf detection.
-- Applied preprocessing, augmentation, and performance optimisation techniques.
-
-### 🔹 Face Recognition System
-- Built a biometric recognition system using OpenCV and SVM (92% accuracy).
-- Conducted feature extraction, dataset cleaning, and evaluation.
+**Languages:** Python · SQL · Bash · Scala  
+**Cloud:** AWS (S3, Redshift, Glue, Athena, Lambda) · Azure (Data Factory, Blob Storage) · GCP  
+**Data Pipelines:** Apache Spark · PySpark · Kafka · Airflow · dbt · Spark Structured Streaming  
+**Databases:** PostgreSQL · Snowflake · Delta Lake · Databricks · Unity Catalog  
+**AI & ML:** XGBoost · LightGBM · TensorFlow · SHAP · LangChain · RAG · SMOTE  
+**DevOps:** Git · Docker · CI/CD · Linux  
 
 ---
 
-## 🎯 Current Focus
+## 📜 Certifications
 
-- Building end-to-end Data Analytics projects
-- Strengthening SQL & cloud data engineering skills
-- Developing business-focused dashboards and reporting solutions
-- Preparing for UK Data Analyst and Digital & Technology Solutions roles
+- AWS Certified Data Analytics – Specialty
+- Databricks Certified Data Engineer Associate
+- Microsoft Azure Data Engineer Associate
 
 ---
 
-## 📫 Let's Connect
+## 📬 Let's Connect
 
-💼 LinkedIn: www.linkedin.com/in/prasanth-teegala-b407743b1
-📧 Email: prashanthteegala7@gmail.com  
-
-I am open to collaboration, internships, graduate roles, and apprenticeship opportunities within the UK.
+- 💼 LinkedIn: [linkedin.com/in/prasanth-teegala](https://www.linkedin.com/in/prasanth-teegala-b407743b1)  
+- 📧 Email: prashanthteegala319@gmail.com
